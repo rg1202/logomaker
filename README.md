@@ -17,7 +17,7 @@ This command line interface only requires you to install node, and the inquirer 
 ## Usage
 To generate an SVG, simply run `index.js` in the command line. You will be asked a series of questions, and then the SVG will be generated. The SVG will be saved in the output folder, with the name you supplied.
 
-Showcase: [my video]
+Showcase: https://drive.google.com/file/d/1gdcDZLG3zRD4A-GueaRt35unQmWOIody/view?usp=sharing
 
 ## License
 None
